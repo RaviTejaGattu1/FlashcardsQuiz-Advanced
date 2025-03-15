@@ -24,13 +24,13 @@ const flashcards = [
   {
     question: "I am a famous talk show host, media mogul, and philanthropist known for The Oprah Winfrey Show. Who am I?",
     answer: "Oprah Winfrey",
-    image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Oprah_Winfrey_at_2011_TCA.jpg",
+    image: "https://myfox8.com/wp-content/uploads/sites/17/2019/01/gettyimages-1040615162.jpg?w=800",
     difficulty: "easy",
   },
   {
     question: "I played a genius billionaire superhero in the Marvel Cinematic Universe. Who am I?",
     answer: "Robert Downey Jr.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg",
+    image: "https://variety.com/wp-content/uploads/2023/06/MCDIRMA_EC014.jpg",
     difficulty: "medium",
   },
   {
@@ -42,25 +42,25 @@ const flashcards = [
   {
     question: "I was a WWE champion before becoming one of Hollywood’s highest-paid actors. Who am I?",
     answer: "Dwayne 'The Rock' Johnson",
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dwayne_Johnson_2013.jpg",
+    image: "https://www.wwe.com/f/styles/og_image/public/all/2024/04/004_RAW_04012024RF_52329--62e3139d062f6bea1bac9ec169006feb.jpg",
     difficulty: "easy",
   },
   {
     question: "I am a singer known for hits like Single Ladies, Halo, and Crazy in Love. Who am I?",
     answer: "Beyoncé",
-    image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Beyonce_Knowles_2020.jpg",
+    image: "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
     difficulty: "medium",
   },
   {
     question: "I played Captain Jack Sparrow in Pirates of the Caribbean. Who am I?",
     answer: "Johnny Depp",
-    image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Johnny_Depp_2018.jpg",
+    image: "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1539262760840-0AGRG7FEKWHQR8P9K49A/image-asset.jpeg",
     difficulty: "hard",
   },
   {
     question: "I portrayed Hermione Granger in the Harry Potter film series. Who am I?",
     answer: "Emma Watson",
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Emma_Watson_2013.jpg",
+    image: "https://m.media-amazon.com/images/M/MV5BNzBmODc0MmQtMTk3NS00NzdjLTk0MmUtZjExYmQxMzNiMzUxXkEyXkFqcGc@._V1_.jpg",
     difficulty: "easy",
   }
 ];
