@@ -32,6 +32,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Walkthrough_14Mar.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Entry 1 : entered "Elone Mask" (correct answer slightly entered different still accepts)
+Entry 2 : entered "Tayler Sweft" (correct answer slightly entered different still accepts, counter displays the user's current and longest streak of correct responses ) 
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with KAP 
 <!-- Recommended tools:
